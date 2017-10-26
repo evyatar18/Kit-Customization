@@ -1,0 +1,9 @@
+main: com.kit.customizable.Main
+name: KitCustomize
+version: 1.0
+
+commands:
+  weaponInv:
+  armorInv:
+  mainInv:
+  choose:
